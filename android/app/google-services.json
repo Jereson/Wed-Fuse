@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "55489422611",
+    "firebase_url": "https://wedme-373214-default-rtdb.firebaseio.com",
+    "project_id": "wedme-373214",
+    "storage_bucket": "wedme-373214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55489422611:android:7b8804781bab552ff066e6",
+        "android_client_info": {
+          "package_name": "com.briskita.wedme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55489422611-uqs7seg4i7unjhfep23qprr5go9v4m1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.briskita.wedme",
+            "certificate_hash": "4fac3f4215c429534b3c0c2ddddbe5f85a6dc8d9"
+          }
+        },
+        {
+          "client_id": "55489422611-5h1pblhqekrnle8slvtcj13t0a0vm005.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-3Y7FhY_EBzNjTPLwn55TABk79PevPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55489422611-5h1pblhqekrnle8slvtcj13t0a0vm005.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55489422611-mnjge5h92p5u24okbd3iht5at87l0emv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.briskita.wedme1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
